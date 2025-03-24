@@ -11,10 +11,4 @@ I'm currently working on Data Engineering projects at Lima Consulting Group, foc
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DanielCorreia14&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=DanielCorreia14&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
